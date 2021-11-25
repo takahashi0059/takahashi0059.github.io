@@ -5,6 +5,6 @@
   - [google.maps](https://goo.gl/maps/dX363op5YJLWatrq8)
 ![This is image](https://manabi-contents.benesse.ne.jp/daigaku/school/3414/__icsFiles/afieldfile/2019/04/12/1_yoneyama1_1.jpg)
 - 過去所属部活
-  - サッカー :soccer:
-  - ソフトテニス :tennis:
-  - 弓道 :bow_and_arrow:
+  - サッカー 
+  - ソフトテニス 
+  - 弓道 
