@@ -1,4 +1,4 @@
-## Welcome to takahashi0059 Pages
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/takahashi0059/takahashi0059.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
